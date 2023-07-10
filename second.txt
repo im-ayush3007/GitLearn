@@ -1,2 +1,3 @@
 hello second file.
 new line
+changes branch2.
